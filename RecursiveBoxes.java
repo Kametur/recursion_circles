@@ -1,6 +1,4 @@
-//(c) A+ Computer Science
-//www.apluscompsci.com
-//Name -
+
 
 import java.awt.Graphics;
 import java.awt.Color;
